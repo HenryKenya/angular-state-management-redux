@@ -1,0 +1,9 @@
+.button-spanish {
+    margin-right: 20px;
+    background: transparent;
+    border: 1px solid #e60026;
+    color: #e60026;
+}
+.button-french {
+    background: #0072bb;
+}
